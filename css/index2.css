@@ -1,0 +1,173 @@
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #D1B6BF;
+    align-items: center;
+   
+}
+.button1 {
+    padding: 12px 16px;
+    margin-right: 5%;
+    border-style: none;
+    font-size:25px;
+    color: #744F5B;;
+    background-color: #D1B6BF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.button1:hover {
+    background-color:#744F5B;
+    color:white;
+}
+.logo {
+    display: flex;
+    justify-content: flex-start;
+   width: 10%;
+}
+.logopic {
+    max-width: 60%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
+.divbuttons {
+   display: flex;
+   justify-content:flex-end;
+}
+.profilepic {
+    width:30%;
+    padding:1%;
+}
+.herolmg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding: 10%;
+    
+}
+.name {
+   color:#744F5B;
+   font-size: 70px;
+   display: inline-block;
+   margin: 0;
+}
+.intro {
+    font-size: 50px;
+    margin: 2;
+    color:  rgb(71, 71, 71);  
+}
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #D1B6BF;
+    align-items: center;
+    height:100px;
+}
+.button2 {
+    padding: 12px 16px;
+    border-style: none;
+    font-size:25px;
+    color: #744F5B;;
+    background-color: #D1B6BF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.button2:hover {
+    background-color:#744F5B;
+    color:white;
+}
+.footerbuttons {
+        display: flex;
+        justify-content: flex-end;
+}
+.casestudy1 {
+    display: flex;
+    justify-content: center;
+}
+.govwebsite:hover {
+    opacity: 0.5;
+}
+.govwebsite {
+    display: block;
+    width: 80%;
+    height: auto;
+}
+.title1 {
+    display:inline-block;
+    margin-left: 9.75%;
+    color: rgb(71, 71, 71);
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.govintro {
+    margin-left: 9.75%;
+    color: rgb(99, 99, 99);
+    font-size: 30px;
+    margin-right: 40%;
+}
+.casestudy2 {
+    display: flex;
+    justify-content: center;
+}
+.barkbooker {
+        width: 80%;
+}
+.barkbooker:hover {
+    opacity: 0.5;
+}
+.title2 {
+    display:inline-block;
+    margin-left: 9.75%;
+    color: rgb(71, 71, 71);
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.barkintro {
+    margin-left: 9.75%;
+    color: rgb(99, 99, 99);
+    font-size: 30px;
+    margin-right: 45%;
+}
+.casestudy3 {
+    display: flex;
+    justify-content: center;
+}
+.mainplace {
+    width: 80%;
+}
+.mainplace:hover {
+    opacity: 0.5;
+}
+.title3 {
+    display:inline-block;
+    margin-left: 9.75%;
+    color: rgb(71, 71, 71);
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.mainplaceintro {
+    margin-left: 9.75%;
+    color: rgb(99, 99, 99);
+    font-size: 30px;
+    margin-right: 40%;
+}
+.resume {
+    margin-left: 9.75%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: flex-start;
+}
+.button3 {
+    padding: 12px 16px;
+    margin-right: 5%;
+    border-style: none;
+    font-size:25px;
+    color: #ffffff;
+    background-color: #744F5B;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+}
+.button3:hover {
+    background-color: #D1B6BF;
+    color:#744F5B;
+}   
